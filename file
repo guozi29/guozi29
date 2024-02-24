@@ -1,0 +1,2 @@
+# Java Command Line Option Constants 
+CDS_OPTS="-Dcds.home=${CDS_HOME}" 
