@@ -1,0 +1,2 @@
+#EXEC_LCP="${EXEC_LCP}:${CDSLIB_DIR}/eventserviceclient.jar" 
+#EXEC_LCP="${EXEC_LCP}:${WL_HOME}/lib/weblogic.jar" 
