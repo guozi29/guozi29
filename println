@@ -1,0 +1,2 @@
+      System.out.println("Subscriber created."); 
+      System.out.println("clientID="+s.getClientID()); 
