@@ -1,0 +1,2 @@
+      System.out.println("subName="+s.getSubName()); 
+      System.out.println("selector="+s.getSelector()); 
