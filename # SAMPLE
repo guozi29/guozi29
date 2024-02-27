@@ -1,0 +1,5 @@
+
+# SAMPLE OPERATOR CONFIGURATIONS 
+# 
+externalserveraddress=localhost 
+externalserverport=7779 
